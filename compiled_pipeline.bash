@@ -1,5 +1,6 @@
 # This script is an alternate way of running the pipeline
 # This pipeline takes in a single metagenomic reads fastq file as input and runs the entire pipeline on that sample
+# Also handles rerunning. To rerun samples it will pick up where it left off, see bottom of code for this
 
 
 # --------------------------------------------------- #
